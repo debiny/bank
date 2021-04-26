@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudo\\CSharp\\Bank\\bank\\bank\\bank.csproj": {}
+    "C:\\Estudo\\CSharp\\Bank\\bank\\bank.csproj": {}
   },
   "projects": {
-    "C:\\Estudo\\CSharp\\Bank\\bank\\bank\\bank.csproj": {
+    "C:\\Estudo\\CSharp\\Bank\\bank\\bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudo\\CSharp\\Bank\\bank\\bank\\bank.csproj",
+        "projectUniqueName": "C:\\Estudo\\CSharp\\Bank\\bank\\bank.csproj",
         "projectName": "bank",
-        "projectPath": "C:\\Estudo\\CSharp\\Bank\\bank\\bank\\bank.csproj",
+        "projectPath": "C:\\Estudo\\CSharp\\Bank\\bank\\bank.csproj",
         "packagesPath": "C:\\Users\\88335\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudo\\CSharp\\Bank\\bank\\bank\\obj\\",
+        "outputPath": "C:\\Estudo\\CSharp\\Bank\\bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\88335\\AppData\\Roaming\\NuGet\\NuGet.Config",
