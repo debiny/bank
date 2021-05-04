@@ -6,7 +6,13 @@ namespace bank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            public string titular = "Debiny";
+            public int agencia = 123;
+            public int conta = 123456;
+            public double saldo = 0.00;
+
+
+            Console.ReadLine();
         }
     }
 }
