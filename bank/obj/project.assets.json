@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\221507\\.nuget\\packages\\": {}
+    "C:\\Users\\88335\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repo\\bank\\bank\\bank.csproj",
+      "projectUniqueName": "C:\\Estudo\\CSharp\\Bank\\bank\\bank.csproj",
       "projectName": "bank",
-      "projectPath": "C:\\repo\\bank\\bank\\bank.csproj",
-      "packagesPath": "C:\\Users\\221507\\.nuget\\packages\\",
-      "outputPath": "C:\\repo\\bank\\bank\\obj\\",
+      "projectPath": "C:\\Estudo\\CSharp\\Bank\\bank\\bank.csproj",
+      "packagesPath": "C:\\Users\\88335\\.nuget\\packages\\",
+      "outputPath": "C:\\Estudo\\CSharp\\Bank\\bank\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\221507\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\88335\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,12 +60,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.12, 3.1.12]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
