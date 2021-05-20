@@ -6,6 +6,16 @@ namespace bank
     {
         static void Main(string[] args)
         {
+   
+        }
+
+        public static void SystemInternal()
+        {
+            var name = string.Empty;
+        }
+
+        public static void aula1()
+        {
             ContaCorrente cc = new ContaCorrente();
             cc.titular = "Jhonny";
             cc.agencia = 1234;
@@ -18,7 +28,7 @@ namespace bank
             cc2.conta = 18372;
             cc2.saldo = 800;
 
-            
+
             Console.WriteLine("Nome do titular da primeira conta: " + cc.titular);
             Console.WriteLine("Número da agência: " + cc.agencia);
             Console.WriteLine("Número da conta: " + cc.conta);

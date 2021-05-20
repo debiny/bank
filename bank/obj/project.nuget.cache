@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LSFiogucA/nUG+AqJbo1ie91cdjqPP3HUF9p0JHStgwnsZHQM2OY1g+RkQWLqmL0z5Q2+4nQ+EinboJrYF+Ssg==",
+  "dgSpecHash": "GEBKNpmfaRwnrUvi5ky8VSy2C7i8UhGbou6qnaIZTTfjFrKdWRWmjFDpIlaTSAOava2uPAaZz8MSI1dbtXOmQA==",
   "success": true,
-  "projectFilePath": "C:\\repo\\bank\\bank\\bank.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Estudo\\CSharp\\Bank\\bank\\bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\88335\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
   "logs": []
 }
