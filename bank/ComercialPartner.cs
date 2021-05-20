@@ -5,6 +5,7 @@ namespace bank
     public class ComercialPartner : IAuthentication
     {
         public string password { get; set; }
+       
 
         public bool Authentication(string pass)
         {
