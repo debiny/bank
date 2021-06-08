@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace bank.Employees
+﻿namespace bank.Employees
 {
     public class Director : EmployeesAuthentication
     {

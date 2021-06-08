@@ -18,6 +18,11 @@ namespace bank
 
             director.Name = "Teste";
             director.password = "1234546";
+
+            Manager manager = new Manager("22211212121");
+
+            manager.Name = "Teste manager";
+            manager.password = "12345777";
         }
 
         public static void aula1()
