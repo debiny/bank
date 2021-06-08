@@ -1,4 +1,6 @@
-﻿using System;
+﻿using bank.Employees;
+using bank.Sistemas;
+using System;
 
 namespace bank
 {
@@ -11,7 +13,16 @@ namespace bank
 
         public static void SystemInternal()
         {
-            var name = string.Empty;
+            SystemInternal systemInternal = new SystemInternal();
+            Director director = new Director("22211212121");
+
+            director.Name = "Teste";
+            director.password = "1234546";
+
+            Manager manager = new Manager("22211212121");
+
+            manager.Name = "Teste manager";
+            manager.password = "12345777";
         }
 
         public static void aula1()
